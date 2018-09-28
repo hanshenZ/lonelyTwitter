@@ -86,9 +86,6 @@ public class LonelyTwitterActivity extends Activity {
 
 		} catch (FileNotFoundException e) {
 			tweetList = new ArrayList<Tweet>();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
 	}
 	
@@ -112,5 +109,9 @@ public class LonelyTwitterActivity extends Activity {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+
+	public void clearMessage(View view) {
+
 	}
 }
