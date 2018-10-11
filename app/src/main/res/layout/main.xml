@@ -35,8 +35,7 @@
         android:id="@+id/clear"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="clearMessage"
-        android:text="@string/clear" />
+        android:text="@android:string/search_go" />
 
     <Button
         android:id="@+id/save"
