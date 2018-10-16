@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hanshen/Downloads/301/lonelyTwitter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,6,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "107,198,59,159",
+                        "endColumns": "50,39,46,37",
+                        "endOffsets": "153,233,101,192"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,220,260,307",
+                        "endColumns": "50,39,46,37",
+                        "endOffsets": "215,255,302,340"
+                    }
+                },
+                {
+                    "source": "/Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
