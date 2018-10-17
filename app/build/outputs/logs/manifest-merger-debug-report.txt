@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
 		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml
@@ -21,44 +21,28 @@ INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidMan
 		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:7:5-81
-	android:name
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:7:22-78
-uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:8:5-75
-	android:name
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:8:22-72
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:9:5-80
-	android:name
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:9:22-77
-uses-permission#android.permission.INTERNET
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:10:5-67
-	android:name
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:10:22-64
 application
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:12:5-24:19
+ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:7:5-19:19
 	android:label
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:13:9-45
+		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:8:9-45
 activity#ca.ualberta.cs.lonelytwitter.LonelyTwitterActivity
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:15:9-23:20
+ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:10:9-18:20
 	android:label
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:17:13-45
+		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:12:13-45
 	android:name
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:16:13-50
+		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:11:13-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/hanshen/Downloads/301/lonelyTwitter/app/src/main/AndroidManifest.xml
